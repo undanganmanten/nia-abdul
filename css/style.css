@@ -60,10 +60,11 @@ html{
 
 body{
     overflow-x: hidden;
-    background: url("../asset/image/background1.jpg");
+    /* background: url("../asset/image/background1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center center; */
+    background-color: white;
 }
 
 /*scroll bar*/
@@ -227,6 +228,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  /* background-color: white; */
   visibility: hidden;
   opacity: 1;
   transition: 1s;
@@ -283,10 +285,11 @@ img{
 #top{
     width: 100vw;
     height: 100vh;
-    background: url("../asset/image/bg-top.jpg");
+    /* background: url("../asset/image/bg-top.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center center; */
+    background-color: white;
 }
 
 .content-top{
