@@ -519,7 +519,7 @@ img{
 }
 
 .image-higher{
-  height: 540px;
+  height: 490px;
 }
 
 .date img{
@@ -528,8 +528,8 @@ img{
 
 .text-block2{
   position: absolute;
-  top: 50px;
-  left: 30px;
+  top: 30px;
+  left: 50px;
 }
 
 .text-block2 .save-date{
@@ -623,7 +623,8 @@ img{
 }
 
 .image-larger{
-  width: 200px !important;
+  width: 100px !important;
+  margin-top: -15px;
 }
 
 .sorry-protokol .sorry p{
