@@ -60,11 +60,11 @@ html{
 
 body{
     overflow-x: hidden;
-    background: url("../asset/image/background1.jpg");
+    /* background: url("../asset/image/background1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
-    /* background-color: white; */
+    background-position: center center; */
+    background-color: white;
 }
 
 /*scroll bar*/
